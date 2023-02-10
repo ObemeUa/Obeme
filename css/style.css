@@ -1,0 +1,59 @@
+*{line-height: 1.2em; padding: 0; margin: 0; border: 0; -webkit-tap-highlight-color: transparent;}
+*,*:before,*:after{
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+}
+:focus,:active{outline: none;}
+a:focus,a:active{outline: none;}
+nav,footer,header,aside{display: block;}
+ 
+html, body{height: 100%;width: 100%;font-size: 100%;line-height: 100%;font-size: 14px;-ms-text-size-adjust: 100%;-moz-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;}
+input,button,textarea{font-family: inherit;}
+input::-ms-clear{display: none;}
+button{cursor: pointer;}
+button::-moz-focus-inner{padding: 0; border: 0;}
+a a:visited{text-decoration: none;}
+a:hover{text-decoration: none;}
+ul li {list-style: none;}
+img{vertical-align: top;}
+body{
+   
+ padding: 20px;   
+ background:url('../abstract-blue-background-simple-design-for-your-website-free-vector.webp')fixed;
+ 
+}
+.block{
+    height: 250px;
+    border-radius: 30px;
+    box-shadow: 0 0 10px black;
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#42bf26+0,7db9e8+100&1+0,0+100 */
+background: -moz-linear-gradient(top,  rgba(66,191,38,1) 0%, rgba(125,185,232,0) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(66,191,38,1) 0%,rgba(125,185,232,0) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(66,191,38,1) 0%,rgba(125,185,232,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#42bf26', endColorstr='#007db9e8',GradientType=0 ); /* IE6-9 */
+
+}
+.block2{
+    margin: 40px 0 0 0;
+    
+    background:url("../0fd7326a9a2ea867cad06dfe32c063ba2937de67.jpg")round;
+}
+.block3{
+    margin: 40px 0 0 0;
+    background:url("..//0_GMReHtD9mDbpl54Q.jfif")round;
+}
+
+.text1{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    
+}
+
+
+
+
+
+
